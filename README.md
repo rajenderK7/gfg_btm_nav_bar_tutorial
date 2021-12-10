@@ -1,10 +1,11 @@
 # gfg_btm_nav_bar
 
-A new Flutter project.
+This is an indepth tutorial of "How to create a custom bottom navigation bar in flutter".
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Check out my article on Geeks For Geeks.
+https://www.geeksforgeeks.org/flutter-custom-bottom-navigation-bar
 
 A few resources to get you started if this is your first Flutter project:
 
